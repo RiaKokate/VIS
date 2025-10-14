@@ -11,7 +11,7 @@ This project investigates **air pollution trends across the United States (1980�
 We combine AQI, CO₂ emissions, climate disaster, and mortality datasets to:  
 - Identify pollution hotspots  
 - Examine pollutant–health relationships  
-- Forecast air quality trends to 2050 using **Facebook Prophet**
+- Forecast air quality trends to 2050 using **Prophet**
 
 > **Central Question:** Are we doing enough to secure breathable air for the future?
 
